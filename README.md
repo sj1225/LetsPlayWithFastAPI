@@ -1,23 +1,30 @@
-## Date : 2022.10.15
-## Author : m1ngmy0ng ( suuujin1225@gmail.com, https://github.com/sj1225 )
+## Let's Play With FastAPI!
 
-## Subject
+---
+
+* Date : 2022.10.15
+* Author : m1ngmy0ng ( suuujin1225@gmail.com, https://github.com/sj1225 )
+
+### Subject
 Study about FastAPI
 
-## Descriptions
+### Descriptions
 * API Specification
 * Return integer, string, html page
 * Post, put, patch, delete requests
 
-## Note
-https://velog.io/@sj1225/FastAPI-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
+### Environment
 
-## Environment
 * Python 3.10.1
 * fastapi 0.85.0
 * uvicorn 0.18.3
 
-## References
+### Note
+https://velog.io/@sj1225/FastAPI-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
+
+---
+
+### References
 * FastAPI Official Page
 https://fastapi.tiangolo.com/ko/
 
